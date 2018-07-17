@@ -25,7 +25,7 @@ It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&
 and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a> font (SIL Open Font License).
 Colors are the corporate design colors from the University of Würzburg.
 
-![alt text](logo/hackyhour.svg "Logo HackyHour")
+![Example logo of the Hackyhour in Würzburg](logo/hackyhour_wue.svg "Logo HackyHour Würzburg as an example")
 
 # License
 The content of this website is available under [CC0](LICENSE).
