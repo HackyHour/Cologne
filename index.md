@@ -14,7 +14,7 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | ---------- | --------------   | ----------:                                                                                                                            |
-| 2018-11-XX | Founding Meeting | [Link an issue](https://github.com/HackyHour/template/issues/1) or [Link a pad](https://something-to-discuss-and-plan-the-meeting.com) |
+| 2018-11-XX | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
