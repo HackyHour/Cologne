@@ -3,7 +3,9 @@ Come to talk about science in a social environment.
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
 
 # When and Where
-*State when the meeting will take place* at the [ZB MED](https://www.zbmed.de/).
+
+Out meeting take place at [ZB MED](https://www.zbmed.de/).
+
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 
 
