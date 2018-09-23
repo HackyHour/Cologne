@@ -4,7 +4,7 @@ If you want to know how computational tools and code can improve your science or
 
 # When and Where
 
-Out meeting take place at [ZB MED](https://www.zbmed.de/).
+Out meeting takes place at [ZB MED](https://www.zbmed.de/).
 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 
