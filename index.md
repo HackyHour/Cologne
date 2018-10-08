@@ -1,10 +1,10 @@
 # About
-Come to talk about code, tools and science, in a social environment.If you have a problem in one of those areas: bring it along and get help. If you want to know how computational tools and code can improve your science or you just want to drink a coffee: join us.
+Come to talk about code, tools and science, in a social environment. If you have a problem in one of those areas: bring it along and get help. If you want to know how computational tools and code can improve your science or you just want to drink a coffee: join us.
 The HackyHour is open to all intrested librarians and scientists of the Cologne area and beyond.  
 
 # When and Where
 
-Our meeting takes place at [ZB MED](https://www.zbmed.de/).
+Our meeting takes place on Thursdays from 2-3pm in the Meeting Room at [ZB MED] (https://www.zbmed.de/).
 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 
@@ -15,9 +15,15 @@ However prior knowledge or interest in these topics is not a prerequisite.
 Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
-| ---------- | --------------   | ----------:                                                                                                                            |
-|2018-12-xx | 2nd Meeting       |[][pad](https://hackmd.io/e1GnT2XER_2CY372dx-WuA) |
-|2018-11-15 | 1th Meeting 
+| --------- | --------------   | ----------:                                                                                           
+|2019-01-03 |
+|2018-12-27 |
+|2018-12-20 |
+|2018-12-13 |                                 
+|2018-12-06 | Nikolaus Meeting       |[][pad](https://hackmd.io/e1GnT2XER_2CY372dx-WuA) |
+|2018-11-29 |
+|2018-11-22 | (Eva does not attendance) 
+|2018-11-15 | 1th 'Serious Meeting' ;) 
 |2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
