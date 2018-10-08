@@ -16,16 +16,18 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------   | ----------:                                                                                           
-|2019-01-03 |
-|2018-12-27 |
-|2018-12-20 |
-|2018-12-13 |                                 
-|2018-12-06 | Nikolaus Meeting       |[][pad](https://hackmd.io/e1GnT2XER_2CY372dx-WuA) |
-|2018-11-29 |
-|2018-11-22 | (Eva does not attendance) 
-|2018-11-15 | 1th 'Serious Meeting' ;) 
+|2019-01-03 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-27 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-20 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-13 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
+|2018-12-06 | Nikolaus Meeting  | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-11-29 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-11-22 |                   |(Eva does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
+|2018-11-15 | 1th 'Serious Meeting' ;) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 |2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
+
+# Code of 
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
