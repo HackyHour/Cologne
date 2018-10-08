@@ -1,5 +1,5 @@
 # About
-Come to talk about science in a social environment.
+Come to talk about code, tools and science, in a social environment.
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
 
 # When and Where
