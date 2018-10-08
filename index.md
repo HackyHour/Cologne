@@ -29,7 +29,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 # Code of Conduct
 In favour to ensure an agreeable atmosphere for everybody all participants are expected to respect each other, their questions and the different ways of contributing and learning regardless to gender, age, race or status of knowledge.
 
-Our rules of conduct takes up the Code of Conduct of [The carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Our rules of conduct takes up the Code of Conduct of [The Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 
 # Inspiration
