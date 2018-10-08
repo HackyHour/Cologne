@@ -16,8 +16,9 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | ---------- | --------------   | ----------:                                                                                                                            |
-|2018-12-xx  |                  |[pad](https://hackmd.io/e1GnT2XER_2CY372dx-WuA) |
-| 2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
+|2018-12-xx | 2nd Meeting       |[][pad](https://hackmd.io/e1GnT2XER_2CY372dx-WuA) |
+|2018-11-15 | 1th Meeting 
+|2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
 # Inspiration
