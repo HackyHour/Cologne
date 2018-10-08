@@ -1,6 +1,6 @@
 # About
-Come to talk about code, tools and science, in a social environment.
-If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
+Come to talk about code, tools and science, in a social environment.If you have a problem in one of those areas: bring it along and get help. If you want to know how computational tools and code can improve your science or you just want to drink a coffee: join us.
+The HackyHour is open to all intrested librarians and scientists of the Cologne area and beyond.  
 
 # When and Where
 
