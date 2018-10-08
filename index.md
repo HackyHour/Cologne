@@ -11,8 +11,7 @@ You can come without registration but feel free to join the discussion in the li
 
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
-However prior knowledge or interest in these topics is not a prerequisite.
-Online discussions for these topics are accessible via the following links.
+However prior knowledge or interest in these topics is not a prerequisite. Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------   | ----------:                                                                                           
@@ -27,7 +26,11 @@ Online discussions for these topics are accessible via the following links.
 |2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
-# Code of 
+# Code of Conduct
+In favour to ensure an agreeable atmosphere for everybody all participants are expected to respect each other, their questions and the different ways of contributing and learning regardless to gender, age, race or status of knowledge.
+
+Our rules of conduct takes up the Code of Conduct of [The carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
