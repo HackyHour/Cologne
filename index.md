@@ -22,7 +22,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-12-06 | Nikolaus Meeting  | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-29 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-22 |                  |(Eva does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | 1th 'Serious Meeting' ;)  topic: trough the jungle of text editors | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
+|2018-11-15 | topic: trough the jungle of text editors (1th 'Serious Meeting')| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
 |2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
