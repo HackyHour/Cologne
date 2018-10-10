@@ -21,8 +21,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-12-13 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
 |2018-12-06 | Nikolaus Meeting  | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-29 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-22 |                   |(Eva does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | 1th 'Serious Meeting' ;) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
+|2018-11-22 |                  |(Eva does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
+|2018-11-15 | 1th 'Serious Meeting' ;)  topic: trough the jungle of text editors | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 |2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
@@ -41,7 +41,7 @@ It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&
 and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a> font (SIL Open Font License).
 Colors are the corporate design colors from the University of Würzburg.
 
-![Example logo of the Hackyhour in Würzburg](logo/hackyhour_wue.svg "Logo HackyHour Würzburg as an example")
+![logo of the Hackyhour at ZB MED](logo/Vorschlag_HackyHourLogo.png "Logo of ZB MED-HackyHour")
 
 # License
 The content of this website is available under [CC0](LICENSE).
