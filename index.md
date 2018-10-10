@@ -1,3 +1,6 @@
+
+![logo of the Hackyhour at ZB MED](logo/Vorschlag_HackyHourLogo.png "Logo of ZB MED-HackyHour")
+
 # About
 Come to talk about code, tools and science, in a social environment. If you have a problem in one of those areas: bring it along and get help. If you want to know how computational tools and code can improve your science or you just want to drink a coffee: join us.
 The HackyHour is open to all intrested librarians and scientists of the Cologne area and beyond.  
@@ -14,15 +17,15 @@ In addition to the open discussions we also aim to talk about specific topics at
 However prior knowledge or interest in these topics is not a prerequisite. Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
-| --------- | --------------   | ----------:                                                                                           
+| --------- | --------------    | ----------:                                                                                           
 |2019-01-03 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-27 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-27 | cancelled due to boxing week | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-12-20 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-12-13 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
-|2018-12-06 | Nikolaus Meeting  | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-06 | Nikolaus' Meeting | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-29 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-22 |                  |(Eva does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | topic: trough the jungle of text editors (1th 'Serious Meeting')| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
+|2018-11-15 | topic: trough the jungle of text editors (1th 'serious meeting')| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
 |2018-11-08 | Founding Meeting | [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
@@ -35,13 +38,6 @@ Our rules of conduct takes up the Code of Conduct of [The Carpentries](https://d
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
 
-# Logo
-The logo is derived from the one used by HackyHour Auckland (with kind permission).
-It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a> 
-and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a> font (SIL Open Font License).
-Colors are the corporate design colors from the University of Würzburg.
-
-![logo of the Hackyhour at ZB MED](logo/Vorschlag_HackyHourLogo.png "Logo of ZB MED-HackyHour")
 
 # License
 The content of this website is available under [CC0](LICENSE).
