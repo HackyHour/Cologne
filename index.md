@@ -18,14 +18,15 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-01-03 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2019-01-10 | Raspberry Pi! (Eva Seidlmayer)| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|  
+|2019-01-03 | cancelled                  | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-12-27 | cancelled due to boxing week | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-12-20 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-13 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
-|2018-12-06 | Nikolaus' Meeting | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-29 |                   | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-22 |                  |(Eva does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | topic: trough the jungle of text editors (1th 'serious meeting')| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
+|2018-12-13 | Web of Science SQL (Eva Seidlmayer) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
+|2018-12-06 | cancelled Christmasparty | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-11-29 | Kongress-Kalender und PINOAQ (Lara Schruff?) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-11-22 | basic SQL (Muhammed Elhousary? CHristoph Poley? Bernd Müller?)     |(Eva/Konrad does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
+|2018-11-15 | Versorgungslandkarte (1th 'serious meeting')| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
