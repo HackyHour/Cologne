@@ -25,8 +25,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-12-13 | Web of Science SQL (Eva Seidlmayer) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
 |2018-12-06 | cancelled Christmasparty | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-29 | Kongress-Kalender und PINOAQ (Lara Schruff?) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-22 | basic SQL (Muhammed Elhousary? CHristoph Poley? Bernd Müller?)     |(Eva/Konrad does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 |  (1th 'serious meeting')| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
+|2018-11-22 |)     |(Eva/Konrad does not attendance) [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
+|2018-11-15 | basic SQL (Muhammed Elhousary? CHristoph Poley? Bernd Müller?)| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
