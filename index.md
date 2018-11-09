@@ -19,18 +19,22 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
 |2019-01-10 | Raspberry Pi! (Eva Seidlmayer)| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|  
-|2019-01-03 | cancelled due to new years hangover                 | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-27 | cancelled due to boxing week | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-20 | novelties from Versorgungslandkarte (Christoph Poley) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-13 | 
- | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
-|2018-12-06 | cancelled due to Christmasparty  | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-29 | text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva)  Vim)
-Kongress-Kalender und PINOAQ (Lara Schruff?) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-22 | Web of Science SQL (Eva Seidlmayer)
- basic SQL (Konrad Förstner? Eva Seidlmayer?)    | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | tba | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
+|2019-01-03 | Cancelled due to new years hangover                 | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-27 | Cancelled due to boxing week | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-20 | tba | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-12-13 | Text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva),  Vim (?))| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
+|2018-12-06 | Cancelled due to Christmas party | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-11-29 | Versorgungslandkarte (Christoph Poley) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
+|2018-11-22 | tba | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
+|2018-11-15 | Help yourself with Library Carpentry websites: basic SQL | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
+
+# More topics
+ Kongress-Kalender und PINOAQ (Lara Schruff?) 
+
+ Web of Science Databsses (Eva) 
+
+ Wikidata (Muhammad) 
 
 
 # Code of Conduct
