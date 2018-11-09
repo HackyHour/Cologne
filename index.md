@@ -29,7 +29,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 Kongress-Kalender und PINOAQ (Lara Schruff?) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
 |2018-11-22 | Web of Science SQL (Eva Seidlmayer)
  basic SQL (Konrad Förstner? Eva Seidlmayer?)    | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
+|2018-11-15 | tba | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 
