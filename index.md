@@ -18,15 +18,15 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-01-10 | Raspberry Pi! (Eva S.)| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|  
-|2019-01-03 | Cancelled due to new years hangover                 | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-27 | Cancelled due to boxing week | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-20 | tba | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-12-13 | Text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva S.),  Vim (?))| [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|          
-|2018-12-06 | Cancelled due to Christmas party | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-29 | "Selenium" browser framework | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)|
-|2018-11-22 | Versorgungslandkarte (Christoph) | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) | 
-|2018-11-15 | Help yourself with Library Carpentry websites: basic SQL; Crossref-DOI-Tool | [issue], [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#)| 
+|2019-01-10 | Raspberry Pi! (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
+|2019-01-03 | Cancelled due to new years hangover | [issue]|
+|2018-12-27 | Cancelled due to boxing week | [issue]|
+|2018-12-20 | tba | [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
+|2018-12-13 | Text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva S.),  Vim (?))| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
+|2018-12-06 | Cancelled due to Christmas party | [issue]|
+|2018-11-29 | "Selenium" browser framework | [issue], [pad](https://hackmd.io/fi0hlV1dTuSCNEJmF5nyxg)|
+|2018-11-22 | Versorgungslandkarte (Christoph) | [issue], [pad](https://hackmd.io/J5JOZoz0QcuMRiIH9aG-dw) | 
+|2018-11-15 | Help yourself with Library Carpentry websites: basic SQL; Crossref-DOI-Tool | [issue], [pad](https://hackmd.io/ExvKk4n3TuKgvrDopnON-Q)| 
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # More topics
