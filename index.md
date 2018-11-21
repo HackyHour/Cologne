@@ -25,7 +25,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-12-13 | Text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva S.),  Vim (?))| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
 |2018-12-06 | Cancelled due to Christmas party | [issue]|
 |2018-11-29 | "Selenium" browser framework | [issue], [pad](https://hackmd.io/fi0hlV1dTuSCNEJmF5nyxg)|
-|2018-11-22 | Versorgungslandkarte (Christoph) | [issue], [pad](https://hackmd.io/J5JOZoz0QcuMRiIH9aG-dw) | 
+|2018-11-22 | "Versorgungslandkarte - unter der Haube" (Christoph) | [issue], [pad](https://hackmd.io/J5JOZoz0QcuMRiIH9aG-dw) | 
 |2018-11-15 | Help yourself with Library Carpentry websites: basic SQL; Crossref-DOI-Tool | [issue], [pad](https://hackmd.io/ExvKk4n3TuKgvrDopnON-Q)| 
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
