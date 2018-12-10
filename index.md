@@ -18,7 +18,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-01-10 | Raspberry Pi! (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
+|2019-02-07 | tba | [issue], [pad]|
+|2019-01-31 | tba | [issue], [pad]|
+|2019-01-24 | tba | [issue], [pad]|
+|2019-01-17 | Raspberry Pi! (Eva S.) | [issue], [pad]|
+|2019-01-10 | MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
 |2018-12-27 | Cancelled due to boxing week | [issue]|
 |2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva S.),  Vim (?))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
