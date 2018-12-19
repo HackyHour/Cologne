@@ -21,11 +21,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-02-07 | tba | [issue], [pad]|
 |2019-01-31 | tba | [issue], [pad]|
 |2019-01-24 | tba | [issue], [pad]|
-|2019-01-17 | Raspberry Pi! (Eva S.) | [issue], [pad]|
-|2019-01-10 | MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
+|2019-01-17 | tba | [issue], [pad]|
+|2019-01-10 | Raspberry Pi and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
 |2018-12-27 | Cancelled due to boxing week | [issue]|
-|2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Silvia, Muhammad), Atom (Christian Kurrat), notepad++ (Eva S.),  Vim (Michael Mang))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
+|2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian Kurrat), notepad++ (Eva?),  Vim (Michael Mang))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
 |2018-12-13 | "Citavi-Projekt - Erschließung der Artikel-Titeldaten von Online-Zeitschriften und deren Übertragung nach LIVIVO" Studienprojekt (Rabea Müller)| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
 |2018-12-06 | Cancelled due to Christmas party | [issue]|
 |2018-11-29 | Wikidata (Muhammad) | [issue], [pad](https://hackmd.io/fi0hlV1dTuSCNEJmF5nyxg)|
@@ -34,7 +34,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # More topics
- Kongress-Kalender und PINOAQ (Lara Schruff?) 
+ MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled
 "Selenium" browser framework (Konrad)
  Web of Science Databsses (Eva S.) 
 
