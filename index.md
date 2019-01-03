@@ -37,7 +37,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
  MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled
 "Selenium" browser framework (Konrad)
  Web of Science Databsses (Eva S.) 
-GitHub and Pads (tba)
+GitHub and Pads (Ulrike?)
   
 
 
