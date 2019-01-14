@@ -21,7 +21,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | --------- | --------------    | ----------:                                                                                           
 |2019-02-07 | tba | [issue], [pad]|
 |2019-01-31 | tba | [issue], [pad]|
-|2019-01-24 | tba | [issue], [pad]|
+|2019-01-24 | 1Lib1Ref | [issue], [pad]|
 |2019-01-17 | 1Lib1Ref | [issue], [pad](https://hackmd.io/_yulr6DbSQyTJwkhwnKkcQ)|
 |2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/_3ATA_m1QJKeZlKLFVX8LA)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
@@ -36,7 +36,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 # More topics
  MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled 
-[//]: <> (Datenbank zur Verwaltung eines Kongresskalenders mit MS Access Anforderung Kongresskalender: nicht per Excel lösbar Abgrenzung Access/Excel: Microsoft legen Excel und Access funktionell zunehmend zusammen)
+<!-- (Datenbank zur Verwaltung eines Kongresskalenders mit MS Access Anforderung Kongresskalender: nicht per Excel lösbar Abgrenzung Access/Excel: Microsoft legen Excel und Access funktionell zunehmend zusammen) --!> 
 "Selenium" browser framework (Konrad)
  Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
