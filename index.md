@@ -1,5 +1,5 @@
 
-![logo of the Hackyhour at ZB MED]( "Logo of ZB MED-HackyHour")
+![logo of the Hackyhour at ZB MED]( https://github.com/HackyHour/Cologne/blob/gh-pages/logo/Logo_updated.png "Logo of ZB MED-HackyHour")
 
 # About
 Come to talk about code, tools and science, in a social environment. If you have a problem in one of those areas: bring it along and get help. If you want to know how computational tools and code can improve your science or you just want to drink a coffee: join us.
@@ -22,7 +22,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-01-31 | tba | [issue], [pad]|
 |2019-01-24 | tba | [issue], [pad]|
 |2019-01-17 | tba | [issue], [pad]|
-|2019-01-10 | Raspberry Pi and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
+|2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
 |2018-12-27 | Cancelled due to boxing week | [issue]|
 |2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian Kurrat), notepad++ (Christoph),  Vim (Michael Mang))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
