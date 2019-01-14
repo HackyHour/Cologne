@@ -1,5 +1,5 @@
 
-![logo of the Hackyhour at ZB MED]( "https://github.com/HackyHour/Cologne/blob/gh-pages/logo/Logo_updated.png")
+[logo of the Hackyhour at ZB MED](https://github.com/HackyHour/Cologne/blob/gh-pages/logo/Logo_updated.png)
 
 # About
 Come to talk about code, tools and science, in a social environment. If you have a problem in one of those areas: bring it along and get help. If you want to know how computational tools and code can improve your science or you just want to drink a coffee: join us.
