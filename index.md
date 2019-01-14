@@ -23,7 +23,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-01-31 | tba | [issue], [pad]|
 |2019-01-24 | tba | [issue], [pad]|
 |2019-01-17 | 1Lib1Ref | [issue], [pad]|
-|2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
+|2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad]|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
 |2018-12-27 | Cancelled due to boxing week | [issue]|
 |2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian K.), notepad++ (Christoph),  Vim (Michael M.))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
