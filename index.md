@@ -8,7 +8,7 @@ The HackyHour is open to all intrested librarians and scientists of the Cologne 
 
 # When and Where
 
-Our meeting takes place on Thursdays from 2-3pm in the Meeting Room at [ZB MED] (https://www.zbmed.de/).
+Our meeting takes place on Thursdays from 2-3pm in the Meeting Room at [ZB MED] (https://www.zbmed.de/). In order to secure a peer to peer interaction frontal teaching longer than 15min is dispensed for HackyHour. Discussions are preferred to be held in English or English and German enable international researchers to join the meeting.  
 
 You can come without registration but feel free to join the discussion in the linked pad (see table below) if you have any questions beforehand.
 
@@ -22,8 +22,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-02-07 | tba | [issue], [pad]|
 |2019-01-31 | tba | [issue], [pad]|
 |2019-01-24 | tba | [issue], [pad]|
-|2019-01-17 | 1Lib1Ref | [issue], [pad]|
-|2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad]|  
+|2019-01-17 | 1Lib1Ref | [issue], [pad](https://hackmd.io/_yulr6DbSQyTJwkhwnKkcQ)|
+|2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/_3ATA_m1QJKeZlKLFVX8LA)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
 |2018-12-27 | Cancelled due to boxing week | [issue]|
 |2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian K.), notepad++ (Christoph),  Vim (Michael M.))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
