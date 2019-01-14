@@ -1,7 +1,5 @@
 
-![logo of the HackyHour at ZB MED] [logo] 
-
-[logo]: Cologne/logo/Logo_updated.png "logo of HackyHour at ZB MED"
+![logo of the HackyHour at ZB MED] (logo/Logo_updated.png "logo of HackyHour at ZB MED")
 
 
 # About
@@ -28,8 +26,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/cmLcR0CjR0yjx5Sy7df5lQ)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
 |2018-12-27 | Cancelled due to boxing week | [issue]|
-|2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian Kurrat), notepad++ (Christoph),  Vim (Michael Mang))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
-|2018-12-13 | "Citavi-Projekt - Erschließung der Artikel-Titeldaten von Online-Zeitschriften und deren Übertragung nach LIVIVO" Studienprojekt (Rabea Müller)| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
+|2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian K.), notepad++ (Christoph),  Vim (Michael M.))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
+|2018-12-13 | "Citavi-Projekt - Erschließung der Artikel-Titeldaten von Online-Zeitschriften und deren Übertragung nach LIVIVO" Studienprojekt (Rabea M.)| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
 |2018-12-06 | Cancelled due to Christmas party | [issue]|
 |2018-11-29 | Wikidata (Muhammad) | [issue], [pad](https://hackmd.io/fi0hlV1dTuSCNEJmF5nyxg)|
 |2018-11-22 | "Versorgungslandkarte - unter der Haube" (Christoph) | [issue], [pad](https://hackmd.io/J5JOZoz0QcuMRiIH9aG-dw) | 
@@ -37,7 +35,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # More topics
- MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled
+ MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled 
+[//]: <> (Datenbank zur Verwaltung eines Kongresskalenders mit MS Access Anforderung Kongresskalender: nicht per Excel lösbar Abgrenzung Access/Excel: Microsoft legen Excel und Access funktionell zunehmend zusammen)
 "Selenium" browser framework (Konrad)
  Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
