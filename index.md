@@ -1,4 +1,3 @@
-Logo:
 ![logo of the HackyHour at ZB MED](logo/Logo_updated.png "Logo Title Text 1")
 
 
