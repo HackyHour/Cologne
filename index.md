@@ -7,7 +7,7 @@ The HackyHour is open to all intrested librarians and scientists of the Cologne 
 
 # When and Where
 
-Our meeting takes place on Thursdays from 2-3pm in the Meeting Room at [ZB MED] (https://www.zbmed.de/). In order to secure a peer-to-peer-interaction frontal-teaching longer than 15min is dispensed for HackyHour. Discussions are preferred to be held in English or English and German to enable international researchers to join the meeting.  
+Our meeting takes place on Thursdays from 2-3pm in the Meeting Room at [ZB MED] (https://www.zbmed.de/). In order to secure a peer-to-peer-interaction frontal-teaching longer than 15min is dispensed for HackyHour. Discussions are preferred to be held in English or English/German to enable international researchers to join the meeting.  
 
 You can come without registration but feel free to join the discussion ahead in the linked pad (see table below) if you have any questions beforehand.
 
