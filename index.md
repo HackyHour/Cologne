@@ -19,9 +19,12 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
+|2019-02-21 | tba | [issue], [pad]|
+|2019-02-14 | Arduino with Christoph, Eva and you  | [issue], [pad]|
 |2019-02-07 | tba | [issue], [pad]|
-|2019-01-31 | tba | [issue], [pad]|
-|2019-01-24 | 1Lib1Ref | [issue], [pad]|
+|2019-02-07 | tba | [issue], [pad]|
+|2019-01-31 | Python Sprint 2 | [issue], [pad]|
+|2019-01-24 | 1Lib1Ref / Python Sprint 1 | [issue], [pad]|
 |2019-01-17 | 1Lib1Ref | [issue], [pad](https://hackmd.io/_yulr6DbSQyTJwkhwnKkcQ)|
 |2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/_3ATA_m1QJKeZlKLFVX8LA)|  
 |2019-01-03 | Cancelled due to new years hangover | [issue]|
