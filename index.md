@@ -19,6 +19,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
+|2019-03-07 | tba | [issue], [pad]| <!-- Sitzngsraum belegt --!>
+|2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
 |2019-02-21 | tba | [issue], [pad]|
 |2019-02-14 | Arduino with Christoph, Eva and you  | [issue], [pad]|
 |2019-02-07 | processing of manual indexed journal signatures (Albert Sawatzky) | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
@@ -26,15 +28,15 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-01-24 | 1Lib1Ref / Python Sprint 1 | [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg)|
 |2019-01-17 | 1Lib1Ref | [issue], [pad](https://hackmd.io/_yulr6DbSQyTJwkhwnKkcQ)|
 |2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/_3ATA_m1QJKeZlKLFVX8LA)|  
-|2019-01-03 | Cancelled due to new years hangover | [issue]|
-|2018-12-27 | Cancelled due to boxing week | [issue]|
-|2018-12-20 | Text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian K.), notepad++ (Christoph),  Vim (Michael M.))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
+|2019-01-03 | cancelled due to new years hangover | [issue]|
+|2018-12-27 | cancelled due to boxing week | [issue]|
+|2018-12-20 | text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian K.), notepad++ (Christoph),  Vim (Michael M.))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
 |2018-12-13 | "Citavi-Projekt - Erschließung der Artikel-Titeldaten von Online-Zeitschriften und deren Übertragung nach LIVIVO" Studienprojekt (Rabea M.)| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
-|2018-12-06 | Cancelled due to Christmas party | [issue]|
+|2018-12-06 | cancelled due to Christmas party | [issue]|
 |2018-11-29 | Wikidata (Muhammad) | [issue], [pad](https://hackmd.io/fi0hlV1dTuSCNEJmF5nyxg)|
 |2018-11-22 | "Versorgungslandkarte - unter der Haube" (Christoph) | [issue], [pad](https://hackmd.io/J5JOZoz0QcuMRiIH9aG-dw) | 
-|2018-11-15 | Help yourself with Library Carpentry websites: basic SQL; Crossref-DOI-Tool | [issue], [pad](https://hackmd.io/ExvKk4n3TuKgvrDopnON-Q)| 
-|2018-11-08 | Founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
+|2018-11-15 | help yourself with Library Carpentry websites: basic SQL; Crossref-DOI-Tool | [issue], [pad](https://hackmd.io/ExvKk4n3TuKgvrDopnON-Q)| 
+|2018-11-08 | founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # More topics
  MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled 
