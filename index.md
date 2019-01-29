@@ -19,7 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-03-07 | tba | [issue], [pad]| <!-- Sitzngsraum belegt --!>
+|2019-03-07 | tba | [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
 |2019-02-21 | tba | [issue], [pad]|
 |2019-02-14 | Arduino (Christoph and Eva), ESP8266 and Raspberry Pi (Christian) | [issue], [pad]|
