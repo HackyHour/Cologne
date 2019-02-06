@@ -21,9 +21,9 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | --------- | --------------    | ----------:                                                                                           
 |2019-03-07 | tba | [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
-|2019-02-21 | tba | [issue], [pad]|
+|2019-02-21 | processing of manual indexed journal signatures (Albert Sawatzky) | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
 |2019-02-14 | Arduino (Christoph and Eva), ESP8266 and Raspberry Pi (Christian) | [issue], [pad]|
-|2019-02-07 | processing of manual indexed journal signatures (Albert Sawatzky) | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
+|2019-02-07 | Python Sprint 3: Merging tabels (S. Pütz-Jagner, E. Müller)| [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg) |
 |2019-01-31 | Python Sprint 2: Merging tabels (S. Pütz-Jagner, E. Müller) | [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg)|
 |2019-01-24 | 1Lib1Ref / Python Sprint 1 | [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg)|
 |2019-01-17 | 1Lib1Ref | [issue], [pad](https://hackmd.io/_yulr6DbSQyTJwkhwnKkcQ)|
