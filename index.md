@@ -21,7 +21,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | --------- | --------------    | ----------:                                                                                           
 |2019-03-07 | tba | [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
-|2019-02-21 | no HackyHour or open HackyHour | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
+|2019-02-21 | Arduino (Eva), ESP8266 and Raspberry Pi (Christian) | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
 |2019-02-14 | processing of manual indexed journal signatures (Albert Sawatzky, Rabea Müller)| [issue], [pad](https://hackmd.io/Wlp3-aRgQQmOS14XCz4B4A)|
 |2019-02-07 | Python Sprint 3: Merging tabels (S. Pütz-Jagner, E. Müller)| [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg) |
 |2019-01-31 | Python Sprint 2: Merging tabels (S. Pütz-Jagner, E. Müller) | [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg)|
@@ -44,8 +44,6 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 "Selenium" browser framework (Konrad)
  Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
-Zotero?
-Arduino (Eva), ESP8266 and Raspberry Pi (Christian)
   
 
 
