@@ -19,6 +19,18 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
+|2019-04-30 |  |  [issue], [pad] |
+|2019-04-23 |  |  [issue], [pad] |  meeting room occupied!
+|2019-04-16 |  |  [issue], [pad] |
+|2019-04-09 |  |  [issue], [pad] |
+|2019-05-02 |  |  [issue], [pad] |
+|2019-04-25 |  |  [issue], [pad] |
+|2019-04-18 |  |  [issue], [pad] |
+|2019-04-11 |  Open Stack Meeting von Alex Walender and Jan Krueger from de.NBI Bielefeld|  [issue], [pad] |
+|2019-04-04 |  |  [issue], [pad] |
+|2019-03-28 |  |  [issue], [pad] |
+|2019-03-21 |  |  [issue], [pad] |
+|2019-03-14 | container software Docker |  [issue], [pad] |
 |2019-03-07 | Arduino, ESP8266 and Raspberry Pi (Christian K.)| [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
 |2019-02-21 | no HackyHour or open HackyHour | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
@@ -45,6 +57,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
  Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
 Zotero?
+f-strings in Python 3.6 (Benjamin& Eva) 
+graphical representation of data PCAv (Silia) 
 
   
 
