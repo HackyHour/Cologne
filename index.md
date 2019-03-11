@@ -26,10 +26,10 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-05-02 |  |  [issue], [pad] |
 |2019-04-25 |  |  [issue], [pad] |
 |2019-04-18 |  |  [issue], [pad] |
-|2019-04-11 |  Open Stack Meeting von Alex Walender and Jan Krueger from de.NBI Bielefeld|  [issue], [pad] |
+|2019-04-11 | Open Stack Meeting von Alex Walender and Jan Krueger from de.NBI Bielefeld|  [issue], [pad] |
 |2019-04-04 |  |  [issue], [pad] |
 |2019-03-28 |  |  [issue], [pad] |
-|2019-03-21 |  |  [issue], [pad] |
+|2019-03-21 | MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) |  [issue], [pad] |
 |2019-03-14 | container software Docker |  [issue], [pad] |
 |2019-03-07 | Arduino, ESP8266 and Raspberry Pi (Christian K.)| [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
@@ -51,8 +51,6 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-11-08 | founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # More topics
- MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) rescheduled 
-<!-- (Datenbank zur Verwaltung eines Kongresskalenders mit MS Access Anforderung Kongresskalender: nicht per Excel lösbar Abgrenzung Access/Excel: Microsoft legen Excel und Access funktionell zunehmend zusammen) --!> 
 "Selenium" browser framework (Konrad)
  Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
