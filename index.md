@@ -58,7 +58,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 GitHub and Pads (Ulrike?)
 Zotero?
 f-strings in Python 3.6 (Benjamin& Eva) 
-graphical representation of data PCAv (Silia) 
+graphical representation of data PCA (Silia) 
 
   
 
