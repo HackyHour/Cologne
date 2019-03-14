@@ -1,5 +1,5 @@
 
-![logo of the HackyHour at ZB MED] Cologne/logo/Logo_updated.png "logo of HackyHour at ZB MED"
+![logo of the HackyHour at ZB MED] (Cologne/logo/Logo_updated.png "logo of HackyHour at ZB MED")
 
 
 # About
