@@ -52,12 +52,12 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 # More topics
 "Selenium" browser framework (Konrad)
- Web of Science Databsses (Eva S.) 
+Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
 Zotero?
 f-strings in Python 3.6 (Benjamin& Eva) 
 graphical representation of data PCA (Silia) 
-
+PyCharm Debugger
   
 
 
