@@ -30,7 +30,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-04-04 | Selenium browser framework (Muhammad) |  [issue], [pad] |
 |2019-03-28 | cancelled due to illness |  [issue], [pad] |
 |2019-03-21 | cancelled due to illness |  [issue], [pad] |
-|2019-03-14 | container software Docker |  [issue], [pad] |
+|2019-03-14 | container software Docker (Michele) |  [issue], [pad] |
 |2019-03-07 | Arduino, ESP8266 and Raspberry Pi (Christian K.)| [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
 |2019-02-21 | no HackyHour or open HackyHour | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
