@@ -25,7 +25,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-04-09 |  |  [issue], [pad] |
 |2019-05-02 |  |  [issue], [pad] |
 |2019-04-25 |  |  [issue], [pad] |
-|2019-04-18 |  |  [issue], [pad] |
+|2019-04-18 | Selenium goes Repository for Life Sciences (Muhammad, Lara Schruff)| [issue], [pad] | meeting room occupied!
 |2019-04-11 | Open Stack Meeting von Alex Walender and Jan Krueger from de.NBI Bielefeld|  [issue], [pad] |
 |2019-04-04 | Selenium browser framework (Muhammad) |  [issue], [pad] |
 |2019-03-28 | cancelled due to illness |  [issue], [pad] |
