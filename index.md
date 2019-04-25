@@ -19,10 +19,10 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-04-30 |  |  [issue], [pad] |
-|2019-04-23 |  |  [issue], [pad] |  meeting room occupied!
-|2019-04-16 |  |  [issue], [pad] |
-|2019-04-09 |  |  [issue], [pad] |
+|2019-05-30 |  |  [issue], [pad] |
+|2019-05-23 |  |  [issue], [pad] |  meeting room occupied!
+|2019-05-16 |  |  [issue], [pad] |
+|2019-05-09 |  |  [issue], [pad] |
 |2019-05-02 |  |  [issue], [pad] |
 |2019-04-25 | Citation network analysis with NetworkX (Nicole)|  [issue], [pad] |
 |2019-04-18 | cancelled | [issue], [pad] | meeting room occupied!
