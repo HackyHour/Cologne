@@ -24,8 +24,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-04-16 |  |  [issue], [pad] |
 |2019-04-09 |  |  [issue], [pad] |
 |2019-05-02 |  |  [issue], [pad] |
-|2019-04-25 |  |  [issue], [pad] |
-|2019-04-18 | Selenium goes Repository for Life Sciences (Muhammad, Lara Schruff)| [issue], [pad] | meeting room occupied!
+|2019-04-25 | Citation network analysis with NetworkX (Nicole)|  [issue], [pad] |
+|2019-04-18 | cancelled | [issue], [pad] | meeting room occupied!
 |2019-04-11 | Open Stack Meeting von Alex Walender and Jan Krueger from de.NBI Bielefeld|  [issue], [pad] |
 |2019-04-04 | Selenium browser framework (Muhammad) |  [issue], [pad] |
 |2019-03-28 | cancelled due to illness |  [issue], [pad] |
@@ -54,10 +54,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
 Zotero?
-f-strings in Python 3.6 (Benjamin& Eva) 
+f-strings in Python 3.6 (Benjamin & Eva) 
 graphical representation of data PCA (Silia) 
 PyCharm Debugger
  MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff)
+ Selenium goes Repository for Life Sciences (Muhammad, Lara Schruff)
 
 
 # Code of Conduct
