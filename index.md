@@ -19,18 +19,18 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-04-30 |  |  [issue], [pad] |
-|2019-04-23 |  |  [issue], [pad] |  meeting room occupied!
-|2019-04-16 |  |  [issue], [pad] |
-|2019-04-09 |  |  [issue], [pad] |
-|2019-05-02 |  |  [issue], [pad] |
-|2019-04-25 |  |  [issue], [pad] |
-|2019-04-18 |  |  [issue], [pad] |
-|2019-04-11 | Open Stack Meeting von Alex Walender and Jan Krueger from de.NBI Bielefeld|  [issue], [pad] |
-|2019-04-04 |  |  [issue], [pad] |
-|2019-03-28 |  |  [issue], [pad] |
-|2019-03-21 | MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff) |  [issue], [pad] |
-|2019-03-14 | container software Docker |  [issue], [pad] |
+|2019-05-30 |  |  [issue], [pad] |
+|2019-05-23 |  |  [issue], [pad] |  meeting room occupied!
+|2019-05-16 |  |  [issue], [pad] |
+|2019-05-09 |  |  [issue], [pad] |
+|2019-05-02 | Automated software dokumentation with Sphinx and MkDocs (Silvia udn Eva) |  [issue], [pad] |
+|2019-04-25 | Citation network analysis with NetworkX (Nicole)|  [issue], [pad] |
+|2019-04-18 | cancelled | [issue], [pad] | meeting room occupied!
+|2019-04-11 | Open Stack Meeting (Alex Walender and Jan Krueger from de.NBI Bielefeld)|  [issue], [pad] |
+|2019-04-04 | Selenium browser framework (Muhammad) |  [issue], [pad] |
+|2019-03-28 | cancelled due to illness |  [issue], [pad] |
+|2019-03-21 | cancelled due to illness |  [issue], [pad] |
+|2019-03-14 | container software Docker (Michele) |  [issue], [pad] |
 |2019-03-07 | Arduino, ESP8266 and Raspberry Pi (Christian K.)| [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
 |2019-02-21 | no HackyHour or open HackyHour | [issue], [pad](https://hackmd.io/r3idOvG7QsGWfVG9D_fzCQ)|
@@ -51,14 +51,14 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2018-11-08 | founding Meeting | we need to end at 2:55pm [issue](https://github.com/HackyHour/Cologne/issues/1), [pad](https://hackmd.io/vEbxzc_hTi63myj-0igFjg#) |
 
 # More topics
-"Selenium" browser framework (Konrad)
 Web of Science Databsses (Eva S.) 
 GitHub and Pads (Ulrike?)
 Zotero?
-f-strings in Python 3.6 (Benjamin& Eva) 
+f-strings in Python 3.6 (Benjamin & Eva) 
 graphical representation of data PCA (Silia) 
 PyCharm Debugger
-  
+ MS Access - Datenbank zur Kongresskalender-Verwaltung (Lara Schruff)
+ Selenium goes Repository for Life Sciences (Muhammad, Lara Schruff)
 
 
 # Code of Conduct
