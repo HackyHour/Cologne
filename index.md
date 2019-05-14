@@ -23,7 +23,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-05-23 |  |  [issue], [pad] |  meeting room occupied!
 |2019-05-16 | Database application "Kongresskalender" realiszed with MS ACCESS 2013 (Lara) |  [issue], [pad] |
 |2019-05-09 | cancelled |  [issue], [pad] |
-|2019-05-02 | Automated software dokumentation with Sphinx and MkDocs (Silvia udn Eva) |  [issue], [pad] |
+|2019-05-02 | Automated software dokumentation with Sphinx and MkDocs (Silvia and Eva) |  [issue], [pad] |
 |2019-04-25 | Citation network analysis with NetworkX (Nicole)|  [issue], [pad] |
 |2019-04-18 | cancelled | [issue], [pad] | meeting room occupied!
 |2019-04-11 | Open Stack Meeting (Alex Walender and Jan Krueger from de.NBI Bielefeld)|  [issue], [pad] |
