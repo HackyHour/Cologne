@@ -20,7 +20,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
 |2019-05-30 |  |  [issue], [pad] |
-|2019-05-23 |  |  [issue], [pad] |  meeting room occupied!
+|2019-05-23 | Data version control for machine learning with dvc (Konrad) | [issue], [pad] |  meeting room occupied!
 |2019-05-16 | Database application "Kongresskalender" realiszed with MS ACCESS 2013 (Lara) |  [issue], [pad] |
 |2019-05-09 | cancelled |  [issue], [pad] |
 |2019-05-02 | Automated software dokumentation with Sphinx and MkDocs (Silvia and Eva) |  [issue], [pad] |
