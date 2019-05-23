@@ -19,7 +19,14 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                           
-|2019-05-30 |  |  [issue], [pad] |
+|2019-07-18 | (Elnaz) | [issue], [pad] |
+|2019-07-11 | object oriented programming (Mohammad) | [issue], [pad] |
+|2019-07-04 | f-stringss in Python (Eva (+Benjamin?)) | [issue], [pad] |
+|2019-06-27 | Data version control for machine learning with dvc (Sughra) |  [issue], [pad] |
+|2019-06-20 | Holiday | 
+|2019-06-13 | Audio processing (Felix) |  [issue], [pad] |
+|2019-06-06 | deeplearning4j.org (Bernd) |  [issue], [pad] |
+|2019-05-30 | Holiday |  [issue], [pad] |
 |2019-05-23 | Data version control for machine learning with dvc (Konrad) | [issue], [pad] |  meeting room occupied!
 |2019-05-16 | Database application "Kongresskalender" realiszed with MS ACCESS 2013 (Lara) |  [issue], [pad] |
 |2019-05-09 | cancelled |  [issue], [pad] |
