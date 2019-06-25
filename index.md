@@ -18,11 +18,17 @@ In addition to the open discussions we also aim to talk about specific topics at
 However prior knowledge or interest in these topics is not a prerequisite. Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
-| --------- | --------------    | ----------:                                                                                           
-|2019-07-18 | (Elnaz) | [issue], [pad] |
-|2019-07-11 | object oriented programming (Mohammad) | [issue], [pad] |
-|2019-07-04 | f-stringss in Python (Eva (+Benjamin?)) | [issue], [pad] |
-|2019-06-27 | Data version control for machine learning with dvc (Sughra) |  [issue], [pad] |
+| --------- | --------------    | ----------:                                                                                            
+|2019-08-29 | | [issue], [pad] |
+|2019-08-22 | | [issue], [pad] |
+|2019-08-15 | | [issue], [pad] |
+|2019-08-08 | | [issue], [pad] |
+|2019-08-01 | | [issue], [pad] |
+|2019-07-25 | (Elnaz) | [issue], [pad] |
+|2019-07-18 | object oriented programming (Mohammad) | [issue], [pad] |
+|2019-07-11 | Data version control for machine learning with dvc (Sughra) | [issue], [pad] |
+|2019-07-04 | general introduction to machine learning (Konrad) | [issue],[pad] |
+|2019-06-27 | cancelled due to final rehearsal for pre-evaulation |  [issue], [pad] |
 |2019-06-20 | Holiday | 
 |2019-06-13 | Audio processing (Felix) |  [issue], [pad] |
 |2019-06-06 | deeplearning4j.org (Bernd) |  [issue], [pad] |
