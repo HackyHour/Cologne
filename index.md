@@ -23,7 +23,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-08-22 | | [issue], [pad] |
 |2019-08-15 | | [issue], [pad] |
 |2019-08-08 | | [issue], [pad] |
-|2019-08-01 | Web of Science, Scopus (Eva)| [issue], [pad] (https://hackmd.io/CU8Pz3ybRYGCKGc_UIc3xA) |
+|2019-08-01 | Web of Science, Scopus (Eva)| [issue], [pad](https://hackmd.io/CU8Pz3ybRYGCKGc_UIc3xA) |
 |2019-07-25 | (Elnaz) | [issue], [pad] |
 |2019-07-18 | object oriented programming (Mohammad) | [issue], [pad] |
 |2019-07-11 | Data version control for machine learning with dvc (Sughra) | [issue], [pad] |
