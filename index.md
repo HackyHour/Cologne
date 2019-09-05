@@ -19,8 +19,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                            
-|2019-08-29 | | [issue], [pad] |
-|2019-08-22 | | [issue], [pad] |
+|2019-09-19 | | [issue], [pad] |
+|2019-09-12 | | [issue], [pad] |
+|2019-09-05 | sbml2smw - plugin for semantic media wiki (Mateen)| [issue], [pad] |
+|2019-08-29 | open meeting | [issue], [pad] |
+|2019-08-22 | open meeting | [issue], [pad] |
 |2019-08-15 | automate downloads, extract and concatinate information from websites (Dino)| [issue], [pad](https://hackmd.io/fKGQiwBiQd-_xgofr8ykqQ)  |
 |2019-08-08 | exchange about experiences with licenses (Affero General Public License, MIT License) | [issue], [pad]|
 |2019-08-01 | Web of Science, Scopus (Eva)| [issue], [pad](https://hackmd.io/CU8Pz3ybRYGCKGc_UIc3xA) |
