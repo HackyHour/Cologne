@@ -71,7 +71,7 @@ Web of Science Databsses (Eva S.)
 GitHub and Pads (Ulrike?)
 Zotero?
 f-strings in Python 3.6 (Benjamin & Eva) 
-graphical representation of data PCA (Silia) 
+graphical representation of data PCA (Silvia) 
 PyCharm Debugger
 Selenium goes Repository for Life Sciences (Muhammad, Lara Schruff)
 
