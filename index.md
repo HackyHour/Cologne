@@ -19,8 +19,12 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                            
-|2019-09-19 | | [issue], [pad] |
-|2019-09-12 | knowledge graphs and ontology building with "poolparty" (Eva)   | [issue], [pad] |
+|2019-10-17|| [issue], [pad] |
+|2019-10-10|| [issue], [pad] |
+|2019-10-03| Holiday| [issue], [pad] |
+|2019-09-26|| [issue], [pad] |
+|2019-09-19 | surveys with online tools (Anett) | [issue], [pad] |
+|2019-09-12 | knowledge graphs and ontology building with "poolparty" (Eva)   | [issue], [pad](https://hackmd.io/V_krSv61SlaExtr8zmldfA) |
 |2019-09-05 | sbml2smw - plugin for semantic media wiki (Mateen)| [issue], [pad] |
 |2019-08-29 | open meeting | [issue], [pad] |
 |2019-08-22 | open meeting | [issue], [pad] |
