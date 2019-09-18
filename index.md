@@ -19,10 +19,10 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                            
-|2019-10-17|| [issue], [pad] |
-|2019-10-10|| [issue], [pad] |
-|2019-10-03| Holiday| [issue], [pad] |
-|2019-09-26|| [issue], [pad] |
+|2019-10-17|| [issue], [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
+|2019-10-10|| [issue], [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
+|2019-10-03| Holiday| |
+|2019-09-26|| [issue], [pad](https://hackmd.io/G_D-O-AmRLqMGnOjxw3pWA) |
 |2019-09-19 | surveys with online tools (Anett) | [issue], [pad](https://hackmd.io/0E5YWCL7QfGC-UzsTaRS7A) |
 |2019-09-12 | knowledge graphs and ontology building with "poolparty" (Eva)   | [issue], [pad](https://hackmd.io/V_krSv61SlaExtr8zmldfA) |
 |2019-09-05 | sbml2smw - plugin for semantic media wiki (Mateen)| [issue], [pad] |
@@ -39,17 +39,17 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-06-20 | Holiday | 
 |2019-06-13 | Audio processing (Felix) |  [issue], [pad] |
 |2019-06-06 | deeplearning4j.org (Bernd) |  [issue], [pad] |
-|2019-05-30 | Holiday |  [issue], [pad] |
+|2019-05-30 | Holiday | |
 |2019-05-23 | Data version control for machine learning with dvc (Konrad) | [issue], [pad] |  meeting room occupied!
 |2019-05-16 | Database application "Kongresskalender" realiszed with MS ACCESS 2013 (Lara) |  [issue], [pad] |
-|2019-05-09 | cancelled |  [issue], [pad] |
+|2019-05-09 | cancelled | |
 |2019-05-02 | Automated software dokumentation with Sphinx and MkDocs (Silvia and Eva) |  [issue], [pad] |
 |2019-04-25 | Citation network analysis with NetworkX (Nicole)|  [issue], [pad] |
 |2019-04-18 | cancelled | [issue], [pad] | meeting room occupied!
 |2019-04-11 | Open Stack Meeting (Alex Walender and Jan Krueger from de.NBI Bielefeld)|  [issue], [pad] |
 |2019-04-04 | Selenium browser framework (Muhammad) |  [issue], [pad] |
-|2019-03-28 | cancelled due to illness |  [issue], [pad] |
-|2019-03-21 | cancelled due to illness |  [issue], [pad] |
+|2019-03-28 | cancelled due to illness | |
+|2019-03-21 | cancelled due to illness | |
 |2019-03-14 | container software Docker (Michele) |  [issue], [pad] |
 |2019-03-07 | Arduino, ESP8266 and Raspberry Pi (Christian K.)| [issue], [pad]| meeting room occupied!
 |2019-02-28 | cancelled due to Wieverfastelovend | [issue], [pad]|
@@ -60,11 +60,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-01-24 | 1Lib1Ref / Python Sprint 1 | [issue], [pad](https://hackmd.io/4G-FknoyRdOIuFPn8PdPjg)|
 |2019-01-17 | 1Lib1Ref | [issue], [pad](https://hackmd.io/_yulr6DbSQyTJwkhwnKkcQ)|
 |2019-01-10 | (RaspberryPi) and Arduino (Eva S.)| [issue], [pad](https://hackmd.io/_3ATA_m1QJKeZlKLFVX8LA)|  
-|2019-01-03 | cancelled due to new years hangover | [issue]|
-|2018-12-27 | cancelled due to boxing week | [issue]|
+|2019-01-03 | cancelled due to new years hangover ||
+|2018-12-27 | cancelled due to boxing week | |
 |2018-12-20 | text editors (Emacs (Konrad), PyCharm (Muhammad), Atom (Christian K.), notepad++ (Christoph),  Vim (Michael M.))| [issue], [pad](https://hackmd.io/VyvrXzAxTp2BNox6tyigzA)|
 |2018-12-13 | "Citavi-Projekt - Erschließung der Artikel-Titeldaten von Online-Zeitschriften und deren Übertragung nach LIVIVO" Studienprojekt (Rabea M.)| [issue], [pad](https://hackmd.io/-2KcE--QRQqRe7S6-DmagQ)|          
-|2018-12-06 | cancelled due to Christmas party | [issue]|
+|2018-12-06 | cancelled due to Christmas party | |
 |2018-11-29 | Wikidata (Muhammad) | [issue], [pad](https://hackmd.io/fi0hlV1dTuSCNEJmF5nyxg)|
 |2018-11-22 | "Versorgungslandkarte - unter der Haube" (Christoph) | [issue], [pad](https://hackmd.io/J5JOZoz0QcuMRiIH9aG-dw) | 
 |2018-11-15 | help yourself with Library Carpentry websites: basic SQL; Crossref-DOI-Tool | [issue], [pad](https://hackmd.io/ExvKk4n3TuKgvrDopnON-Q)| 
