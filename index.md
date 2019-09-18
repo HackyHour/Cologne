@@ -1,5 +1,5 @@
 
-![Logo of HackyHour Cologne ](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/logo/computerlovehate.jpg "logo of HackyHour at ZB MED")
+![feelings as love and hate concernings computers](https://github.com/HackyHour/Cologne/blob/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers")
 
 
 # About
