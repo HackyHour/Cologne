@@ -1,5 +1,5 @@
 
-![Logo of HackyHour Cologne ](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/logo/Logo_updated.png "logo of HackyHour at ZB MED")
+![Logo of HackyHour Cologne ](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/logo/computerlovehate.jpg "logo of HackyHour at ZB MED")
 
 
 # About
