@@ -22,7 +22,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-10-17| Hacktoberfest | [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
 |2019-10-10| Hacktoberfest | [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
 |2019-10-03| Holiday| |
-|2019-09-26|| [issue], [pad](https://hackmd.io/G_D-O-AmRLqMGnOjxw3pWA) |
+|2019-09-26| some file access problems (Anett); Deep learning with fast.ai (Eva)| [pad](https://hackmd.io/G_D-O-AmRLqMGnOjxw3pWA) |
 |2019-09-19 | surveys with online tools (Anett) | [issue], [pad](https://hackmd.io/0E5YWCL7QfGC-UzsTaRS7A) |
 |2019-09-12 | knowledge graphs and ontology building with "poolparty" (Eva)   | [issue], [pad](https://hackmd.io/V_krSv61SlaExtr8zmldfA) |
 |2019-09-05 | sbml2smw - plugin for semantic media wiki (Mateen)| [issue], [pad] |
