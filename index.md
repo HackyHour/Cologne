@@ -19,7 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                            
-|2019-10-17|| [issue], [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
+|2019-10-17|| Hacktoberfest https://hacktoberfest.digitalocean.com/ [issue], [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
 |2019-10-10|| [issue], [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
 |2019-10-03| Holiday| |
 |2019-09-26|| [issue], [pad](https://hackmd.io/G_D-O-AmRLqMGnOjxw3pWA) |
