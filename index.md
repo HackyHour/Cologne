@@ -19,8 +19,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------:                                                                                            
-|2019-10-17|| Hacktoberfest [issue], [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
-|2019-10-10|| Hacktoberfest [issue], [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
+|2019-10-17| Hacktoberfest | [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
+|2019-10-10| Hacktoberfest | [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
 |2019-10-03| Holiday| |
 |2019-09-26|| [issue], [pad](https://hackmd.io/G_D-O-AmRLqMGnOjxw3pWA) |
 |2019-09-19 | surveys with online tools (Anett) | [issue], [pad](https://hackmd.io/0E5YWCL7QfGC-UzsTaRS7A) |
