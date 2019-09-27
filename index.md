@@ -1,5 +1,5 @@
 
-![feelings as love and hate concernings computers](https://github.com/HackyHour/Cologne/blob/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers")
+![feelings as love and hate concernings computers](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers")
 
 
 # About
