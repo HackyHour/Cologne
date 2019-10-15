@@ -1,5 +1,5 @@
 
-<!-- We nee a new logo due to license  [feelings as love and hate concernings computers](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers") 
+<!-- We nee a new logo due to license  [feelings as love and hate concernings computers](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers") -->
 
 
 # About
