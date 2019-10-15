@@ -1,5 +1,5 @@
 
-![feelings as love and hate concernings computers](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers")
+<!-- We nee a new logo due to license  ![feelings as love and hate concernings computers](https://raw.githubusercontent.com/HackyHour/Cologne/gh-pages/images/computerhatelove.jpg "picture illustrating feelings as love and hate concernings computers") --!>
 
 
 # About
@@ -21,7 +21,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | --------- | --------------    | ----------:                                                                                            
 |2019-11-07| Dimensions webinar (Altmetric.com) |[pad](https://hackmd.io/UpXaHfHaRgK1JnIc0FX-GA) | 
 |2019-10-31| best-practice for spreadsheets? (Beatrix ?)| [pad](https://hackmd.io/Qtf54Cf0S--GapqRamJsGg?both) |
-|2019-10-24|||
+|2019-10-24| Deeplearning? | [pad](https://hackmd.io/jeMao1pHSEKxem8r47L6-w)|
 |2019-10-17| Hacktoberfest | [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
 |2019-10-10| Hacktoberfest | [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
 |2019-10-03| Holiday| |
