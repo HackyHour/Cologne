@@ -22,7 +22,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 |2019-11-14 |Deep learning with fast.ai | [pad](https://hackmd.io/zVpSWCMuRxmaUK1ZPpZCFQ) |
 |2019-11-07| Dimensions webinar (Altmetric.com) |[pad](https://hackmd.io/UpXaHfHaRgK1JnIc0FX-GA) | 
 |2019-10-31| best-practice for spreadsheets? (Beatrix ?)| [pad](https://hackmd.io/Qtf54Cf0S--GapqRamJsGg?both) |
-|2019-10-24|  | [pad](https://hackmd.io/jeMao1pHSEKxem8r47L6-w)|
+|2019-10-24| Presentation: Python-Script for Information-Collecting | [pad](https://hackmd.io/jeMao1pHSEKxem8r47L6-w)|
 |2019-10-17| Hacktoberfest | [pad](https://hackmd.io/QyyugRxfRJqIXhQgFXXEjw) |
 |2019-10-10| Hacktoberfest | [pad](https://hackmd.io/ZsReCGNxRzKji77Beri-pA) |
 |2019-10-03| Holiday| |
