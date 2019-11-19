@@ -18,7 +18,15 @@ In addition to the open discussions we also aim to talk about specific topics at
 However prior knowledge or interest in these topics is not a prerequisite. Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary          | Discussion                                                                                                                             |
-| --------- | --------------    | ----------:                                                                                            
+| --------- | --------------    | ----------: 
+|2019-01-09|||
+|2019-01-02 |||
+|2019-12-26|||
+|2019-12-19|||
+|2019-12-12|||
+|2019-12-05|||
+|2019-11-28 ||[pad](https://hackmd.io/XHsqg5M2QRaXSfL2olAcJw)|
+|2019-11-21 ||[pad](https://hackmd.io/fM-scnTPQf2t0gsXxz4ogg)|
 |2019-11-14 |Deep learning with fast.ai | [pad](https://hackmd.io/zVpSWCMuRxmaUK1ZPpZCFQ) |
 |2019-11-07| Dimensions webinar (Altmetric.com) |[pad](https://hackmd.io/UpXaHfHaRgK1JnIc0FX-GA) | 
 |2019-10-31| best-practice for spreadsheets? (Beatrix ?)| [pad](https://hackmd.io/Qtf54Cf0S--GapqRamJsGg?both) |
