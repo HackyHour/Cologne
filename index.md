@@ -20,11 +20,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
 |2019-01-09|||
-|2019-01-02 |||
-|2019-12-26|||
-|2019-12-19|||
-|2019-12-12|||
-|2019-12-05|||
+|2019-01-02|new year's break||
+|2019-12-26|Christmas break||
+|2019-12-19|Christmas break||
+|2019-12-12|winter break||
+|2019-12-05|open discussion||
 |2019-11-28 ||[pad](https://hackmd.io/XHsqg5M2QRaXSfL2olAcJw)|
 |2019-11-21 |fast.ai lecture 1 ||
 |2019-11-14 |Deep learning with fast.ai | [pad](https://hackmd.io/zVpSWCMuRxmaUK1ZPpZCFQ) |
