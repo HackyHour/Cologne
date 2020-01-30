@@ -19,12 +19,12 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
-|2019-02-06|||
-|2019-01-30|__CANCELED__||
-|2019-01-23|__CANCELED__||
-|2019-01-16|[Python script] Link response checker||
-|2019-01-09|||
-|2019-01-02|new year's break||
+|2020-02-06|||
+|2020-01-30|__CANCELED__||
+|2020-01-23|__CANCELED__||
+|2020-01-16|[Python script] Link response checker||
+|2020-01-09|||
+|2020-01-02|new year's break||
 |2019-12-26|Christmas break||
 |2019-12-19|Christmas break||
 |2019-12-12|winter break||
