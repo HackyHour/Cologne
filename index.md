@@ -19,7 +19,8 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
-|2019-01-30|||
+|2019-02-06|__CANCELED__||
+|2019-01-30|__CANCELED__||
 |2019-01-23|__CANCELED__||
 |2019-01-16|[Python script] Link response checker||
 |2019-01-09|||
