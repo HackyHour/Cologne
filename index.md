@@ -19,6 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
+|2020-02-13|||
 |2020-02-06|||
 |2020-01-30|__CANCELED__||
 |2020-01-23|__CANCELED__||
@@ -99,7 +100,7 @@ In favour to ensure an agreeable atmosphere for everybody all participants are e
 
 Our rules of conduct takes up the Code of Conduct of [The Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-
+|2020-02-06|||
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).
 
