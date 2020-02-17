@@ -19,6 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
+|2020-02-20|Carnival party at ZBMED|__CANCELED__|
 |2020-02-13||[HTML2PDF](https://stackoverflow.com/questions/59732104/how-can-make-the-header-look-the-same-in-pdf-html2pdf-as-in-the-browser)|
 |2020-02-06|||
 |2020-01-30|__CANCELED__||
