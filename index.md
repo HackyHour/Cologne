@@ -19,6 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
+|2020-03-12|||
 |2020-03-05|||
 |2020-02-27||Rearranging excel sheets with python|
 |2020-02-20|Carnival party at ZBMED|__CANCELED__|
