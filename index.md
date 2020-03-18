@@ -19,7 +19,9 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
-|2020-03-19|||
+|2020-04-02||__CANCELED__|
+|2020-03-26||__CANCELED__|
+|2020-03-19||__CANCELED__|
 |2020-03-12|||
 |2020-03-05|||
 |2020-02-27||Rearranging excel sheets with python|
