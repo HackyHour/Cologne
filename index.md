@@ -19,6 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
+|2020-07-02||__CANCELED__|
 |2020-06-25||__CANCELED__|
 |2020-06-18||__CANCELED__|
 |2020-06-11||__CANCELED__|
