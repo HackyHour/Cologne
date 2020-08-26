@@ -20,37 +20,11 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
 |2020-08-27|||
-|2020-08-20||__CANCELED__|
-|2020-08-13||__CANCELED__|
-|2020-08-06||__CANCELED__|
-|2020-07-30||__CANCELED__|
-|2020-07-23||__CANCELED__|
-|2020-07-16||__CANCELED__|
-|2020-07-09||__CANCELED__|
-|2020-07-02||__CANCELED__|
-|2020-06-25||__CANCELED__|
-|2020-06-18||__CANCELED__|
-|2020-06-11||__CANCELED__|
-|2020-06-04||__CANCELED__|
-|2020-05-28||__CANCELED__|
-|2020-05-21||__CANCELED__|
-|2020-05-14||__CANCELED__|
-|2020-05-07||__CANCELED__|
-|2020-04-30||__CANCELED__|
-|2020-04-23||__CANCELED__|
-|2020-04-16||__CANCELED__|
-|2020-04-09||__CANCELED__|
-|2020-04-02||__CANCELED__|
-|2020-03-26||__CANCELED__|
-|2020-03-19||__CANCELED__|
 |2020-03-12|||
 |2020-03-05|||
 |2020-02-27||Rearranging excel sheets with python|
 |2020-02-20|Carnival party at ZBMED|__CANCELED__|
 |2020-02-13||[HTML2PDF](https://stackoverflow.com/questions/59732104/how-can-make-the-header-look-the-same-in-pdf-html2pdf-as-in-the-browser)|
-|2020-02-06|||
-|2020-01-30|__CANCELED__||
-|2020-01-23|__CANCELED__||
 |2020-01-16|[Python script] Link response checker||
 |2020-01-09|||
 |2020-01-02|new year's break||
