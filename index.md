@@ -19,7 +19,7 @@ However prior knowledge or interest in these topics is not a prerequisite. Onlin
 
 | Date       | Summary          | Discussion                                                                                                                             |
 | --------- | --------------    | ----------: 
-|2020-09-17| *2 hours* |Hacktoberfest|
+|2020-09-17| 14:00 - 16:00 |Hacktoberfest|
 |2020-08-27|||
 |2020-02-27||Rearranging excel sheets with python|
 |2020-02-20|Carnival party at ZBMED|__CANCELED__|
