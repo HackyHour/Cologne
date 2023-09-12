@@ -24,11 +24,11 @@ You can come without registration but feel free to join the discussion in the li
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite. Online discussions for these topics are accessible via the following links.
 
-| Date       | Summary            | Discussion                                                           |
-|------------|--------------------|----------------------------------------------------------------------|
-| 2023-10-13 | Hacktoberfest 2023 | [Hacktoberfest Pad](https://pad.gwdg.de/vSV4LsCuSD6GO_hOUEV9Sg)      |
-| 2023-12-08 | Code for Christmas | [Code for Christmas Pad](https://pad.gwdg.de/9h5el9tcSz2rI88MHa5SoA) |
-| 2024-02-16 | Code & Carnival    |                                                                      |
+| Date                             | Summary            | Discussion                                                           |
+|----------------------------------|--------------------|----------------------------------------------------------------------|
+| 2023-10-13, **13:00 - 14:30 pm** | Hacktoberfest 2023 | [Hacktoberfest Pad](https://pad.gwdg.de/vSV4LsCuSD6GO_hOUEV9Sg)      |
+| 2023-12-08                       | Code for Christmas | [Code for Christmas Pad](https://pad.gwdg.de/9h5el9tcSz2rI88MHa5SoA) |
+| 2024-02-16                       | Code & Carnival    |                                                                      |
 
 
 # More topics
