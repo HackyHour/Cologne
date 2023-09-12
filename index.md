@@ -9,7 +9,7 @@ The HackyHour is open to all interested librarians and scientists of the Cologne
 
 # When and Where
 
-Our meeting takes place on Fridays from 1-2pm via Zoom:
+Our meetings take place on Fridays from 1-2pm via Zoom:
 - [https://us06web.zoom.us/j/85675166898?pwd=ZUEzSXNldXNwSWRpNk1IZTFja3UxZz09](https://us06web.zoom.us/j/85675166898?pwd=ZUEzSXNldXNwSWRpNk1IZTFja3UxZz09)
 - Meeting ID: 856 7516 6898
 - Passcode: 155609
